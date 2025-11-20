@@ -1,3 +1,2 @@
-#SPDX-License-Identifier: MIT-0
 ---
-# vars file for ansible-role-rhel10-stig
+# defaults file for rhel10_stig
