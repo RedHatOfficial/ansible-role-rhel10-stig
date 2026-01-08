@@ -71,6 +71,7 @@ var_sshd_disable_compression: 'no'
 var_rekey_limit_size: 1G
 var_rekey_limit_time: 1h
 var_sssd_certificate_verification_digest_function: sha512
+var_audit_backlog_limit: '8192'
 var_audit_failure_mode: '2'
 var_auditd_action_mail_acct: root
 var_auditd_admin_space_left_action: single
