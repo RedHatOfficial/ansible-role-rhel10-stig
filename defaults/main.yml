@@ -264,6 +264,7 @@ directory_groupowner_sshd_config_d: true
 directory_owner_sshd_config_d: true
 directory_ownership_var_log_audit: true
 directory_permissions_sshd_config_d: true
+directory_permissions_var_log_audit: true
 disable_ctrlaltdel_burstaction: true
 disable_ctrlaltdel_reboot: true
 disable_host_auth: true
@@ -442,6 +443,7 @@ package_policycoreutils_python_utils_installed: true
 package_rsyslog_gnutls_installed: true
 package_rsyslog_installed: true
 package_s_nail_installed: true
+package_sequoia_sq_installed: true
 package_sssd_installed: true
 package_subscription_manager_installed: true
 package_sudo_installed: true
